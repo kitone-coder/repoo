@@ -44,7 +44,7 @@ document
 
         const { data, error } =
         await client
-        .from("rentals")
+        .from("rentals2")
         .insert([
             {
                 username: username,
