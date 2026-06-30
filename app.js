@@ -3,10 +3,10 @@
 // ==========================
 
 const SUPABASE_URL =
-"https://tzygochlibduxubsblzd.supabase.co";
+"https://jrkleiprsjblmaqljzki.supabase.co";
 
 const SUPABASE_ANON_KEY =
-"sb_publishable_GVnQsJLt8IzlyOUAL48Kmg_kdLxPzxH";
+"sb_publishable_QFRDKZRJ1a0OjoKRyivnNA_UDmuzcI1";
 
 const client = supabase.createClient(
     SUPABASE_URL,
